@@ -19,3 +19,4 @@ Hello, my name is Laurentino Neto, here you will find one of the greatest passio
 ### Contacts
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/583919206957842438)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=google-gmail&logoColor=white)](mailto:zeuzgfx2021@gmail.com?subject=Hello")
