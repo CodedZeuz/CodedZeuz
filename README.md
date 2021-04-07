@@ -12,7 +12,7 @@
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/CodedZeuz)](https://github.com/BRdhanani) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-<p align='center'>
+<p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedzeuz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Zeuz's Github Stats">
 </p>
 
