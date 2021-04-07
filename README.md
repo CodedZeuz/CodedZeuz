@@ -8,10 +8,6 @@ Hello, my name is Laurentino Neto, here you will find one of the greatest passio
 ![Lua](https://img.shields.io/badge/Lua-003545?style=for-the-badge&logo=lua&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-31648c?style=for-the-badge&logo=java&logoColor=white)
 
-### Languages
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codedzeuz&layout=compact&theme=dracula&hide_title=true&langs_count=10)
-
 ### Contributions
 
 ![Github Contributions](https://github-readme-stats.vercel.app/api?username=codedzeuz&theme=dracula&show_icons=true&hide_title=true&count_private=true)
